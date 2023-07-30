@@ -72,7 +72,7 @@ This extension is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Developed by [Your Name](https://github.com/yourusername)
+Developed by [Brian Rono](https://github.com/Brian-Rono)
 
 If you find this extension helpful, consider giving it a ⭐️ on GitHub!
 
