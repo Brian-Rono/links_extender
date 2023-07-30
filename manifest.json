@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Link Highlighter",
+  "version": "1.0",
+  "description": "Highlight and open selected links in new tabs",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
