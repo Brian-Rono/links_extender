@@ -2,7 +2,7 @@
 A browser extension that highlights links, allows you to selectively uncheck links, and opens the remaining links in new tabs.
 
 <h1 align="center">
-  Link Highlighter - Chrome/Brave Extension
+  Link Highlighter - Chromium Extension
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@ A browser extension that highlights links, allows you to selectively uncheck lin
 
 - Fetches all links from the current webpage and displays them in a popup.
 - Allows users to check/uncheck links to open them in new tabs selectively.
-- Compatible with Chrome and Brave browsers.
+- Compatible with Chromium browsers.
 - Easy-to-use and minimalistic UI.
 
 ## How To Use
