@@ -6,10 +6,6 @@ A browser extension that highlights links, allows you to selectively uncheck lin
 </h1>
 
 <p align="center">
-  <img src="extension-icon.png" alt="Extension Icon" width="100px" height="100px">
-</p>
-
-<p align="center">
   <em>Highlight and open selected links in new tabs.</em>
 </p>
 
